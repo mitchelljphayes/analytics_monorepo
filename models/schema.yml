@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: needful_things
-    schema: main
+    schema: needful_things
     tables:
       - name: orders
       - name: reviews
